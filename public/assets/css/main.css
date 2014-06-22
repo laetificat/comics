@@ -1,0 +1,11 @@
+body {
+    padding-top: 50px;
+}
+
+.panel-body.page-container {
+    padding: 0;
+}
+
+.badge a {
+    color: #ffffff;
+}
